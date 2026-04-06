@@ -1,0 +1,7 @@
+path: c:/Users/TEJA/PycharmProjects/TumorFinder/dataset_brain tumor_correct
+train: Train/Images
+val: Valid/Images
+test: Test/Images
+
+nc: 3
+names: ['tumor_type_1', 'tumor_type_2', 'tumor_type_3']

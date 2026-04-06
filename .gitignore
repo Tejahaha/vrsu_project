@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+__pypackages__/
+
+# PyCharm / JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Project-specific / Machine Learning
+dataset_brain tumor_correct/
+datasets/
+runs/
+*.pt
+*.pth
+*.weights
+*.onnx
+*.engine
+
+# System files
+.DS_Store
+Thumbs.db
